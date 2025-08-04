@@ -85,5 +85,9 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     }
+    "ikm3u8": {
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "name": "iKun"
+    }
   }
 }
