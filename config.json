@@ -85,17 +85,5 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     }
-    "ikm3u8": {
-      "api": "https://ikunzyapi.com/api.php/provide/vod",
-      "name": "iKun"
-    }
-   "hhzy": {
-      "api": "https://hhzyapi.com/api.php/provide/vod",
-      "name": "豪华资源"
-    }
-   "hongniu": {
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/josn/",
-      "name": "红牛资源"
-    }
   }
 }
